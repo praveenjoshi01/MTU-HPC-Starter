@@ -33,7 +33,7 @@
 
 
 import tensorflow as tf
-import albumentations
+#import albumentations
 
 # Load and prepare the [MNIST dataset](http://yann.lecun.com/exdb/mnist/). Convert the samples from integers to floating-point numbers:
 
